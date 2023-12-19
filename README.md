@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CerenCan-github
-- 👀 I’m a senior student of Molecular Biology and Genetics, and I am interested in the field of bioinformatics, drug design, nanobiotechnology, cell biology.
+- 👀 I graduated from the department of Molecular Biology and Genetics, and I am interested in the field of bioinformatics, drug design, nanobiotechnology, cell biology.
 - 🌱 I’m currently learning Python Scripting for Biochemistry & Molecular Biology in Jupyter notebooks. 
 - 💞️ I’m looking to collaborate on drug design for neurodegenerative disorders.
 - 📫 How to reach me: cc dot cerencan at gmail dot com
